@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **MERN stack, Java**
 
-- 💬 Ask me about **react,**
+- 💬 Ask me about **Javascript, react**
 
 - 📫 How to reach me **rajbhargav077@gmail.com**
 
-- ⚡ Fun fact **I am just a geek**
+- ⚡ Fun fact **I write code to build things, and break things to learn how they were built.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
