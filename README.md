@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rajnish077.io)
 <h1 align="center">Hi 👋, I'm Rajnish bhargav</h1>
 <h2 align="center">A passionate software developer from India</h2>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/https://pixabay.com/photos/ai-generated-man-computer-desk-8403412/">
+<img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/https://pixabay.com/photos/ai-generated-man-computer-desk-8403412](https://www.pexels.com/photo/black-and-red-laptop-computer-beside-white-puma-curve-brim-cap-943101/)/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnish077&label=Profile%20views&color=0e75b6&style=flat" alt="rajnish077" /> </p>
 
