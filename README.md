@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://rajnish077.io)
-<h1 align="center">Hi 👋, I'm Rajnish bhargav</h1>
+<h1 align="center">Hello guyz 👋, I'm Rajnish bhargav</h1>
 <h2 align="center">A passionate software developer from India</h2>
 <img align="right" alt="Coding" width="400" src="https://images.pexels.com/photos/943101/pexels-photo-943101.jpeg">
 
@@ -29,6 +29,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajnish077&show_icons=true&locale=en&layout=compact" alt="rajnish077" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajnish077&show_icons=true&locale=en" alt="rajnish077" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajnish077&show_icons=true&locale=en" alt="rajnish077" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajnish077&" alt="rajnish077" /></p>
